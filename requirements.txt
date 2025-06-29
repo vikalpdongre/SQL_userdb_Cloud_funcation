@@ -1,0 +1,4 @@
+Flask==2.3.2 # Or your specific version
+mysql-connector-python==8.0.33 # Or your specific version
+# If using Cloud SQL Proxy, you might need PyMySQL as well:
+# PyMySQL==1.0.3
